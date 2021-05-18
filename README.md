@@ -22,4 +22,11 @@ This project aims to utilize reinforceemnt learning to find treasure within a 5x
 In this work we implement reinforcement policies that model situational assesments, actions and rewards that have been documented on the Treasure_Hunt.ipynb notebook. The final result that would show the optimal path can also be found in this notebook. 
 
 
+Resources being used:
+
+- https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
+- https://towardsdatascience.com/introduction-to-q-learning-88d1c4f2b49c
+- https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2
+
+
 
